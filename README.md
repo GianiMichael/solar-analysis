@@ -4,6 +4,7 @@ Analysis of U.S. commercial and residential solar adoption using EIA net meterin
 
 **[View the live dashboard here →](https://public.tableau.com/app/profile/giancarlo.michael/viz/USNetMeteringAnalysis2015-2024/Dashboard1)**
 
+![Dashboard Preview](dashboard-preview.png)
 ---
 
 ## Overview
