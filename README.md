@@ -17,7 +17,7 @@ This project explores how commercial solar capacity has grown across U.S. states
 ## Tools
 
 - **Python (pandas)** – combined 10 annual EIA files, fixed column mismatches, exported clean CSV
-- **Tableau Public** – dashboard and visualizations
+- **Power BI** – initial data exploration and capacity mapping by state
 - **Tableau Public** – final dashboard and visualizations
 
 ## Key Findings
