@@ -25,7 +25,7 @@ This project explores how commercial solar capacity has grown across U.S. states
 
 - Total U.S. net metering capacity reached **44,309 MW** in 2024, up from ~10,000 MW in 2015
 - **California** accounts for the largest share of commercial solar capacity by a wide margin
-- Commercial solar has grown faster than residential since 2020
+- Residential net metering capacity has grown faster than commercial, reaching roughly 25,000 MW by 2024 vs 11,000 MW for commercial
 - Massachusetts, New Jersey, and New York lead among non-California states
 
 ## Files
